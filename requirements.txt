@@ -1,0 +1,12 @@
+babel~=2.9.0
+python-dateutil==2.6.0
+flask-moment
+flask-wtf
+pip~=20.1.1
+contrib~=0.3.0
+cryptography~=3.3.1
+api~=0.0.7
+setuptools~=47.1.0
+Flask~=1.1.2
+WTForms~=2.3.3
+fabric~=2.5.0
